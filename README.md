@@ -10,3 +10,6 @@ This git repository contains LaTeX sources for the event handbook and organizer
 guide, which are used to generate PDFs. To generate the PDFs this way, you will
 need 'make' and 'pdflatex'.
 
+Dependencies
+------------
+* Debian/Ubuntu: apt install texlive-latex-base texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra texlive-lang-portuguese
